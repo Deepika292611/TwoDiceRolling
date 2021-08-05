@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoDiceRolling</string>
+    <string name="roll">roll_label</string>
+</resources>
